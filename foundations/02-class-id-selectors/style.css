@@ -1,0 +1,19 @@
+.first,.second,.Num5{
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, Dejavu sans, sans-serif;
+}
+#saw{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.first{
+    font-size: 18px;
+}
+.second{
+    font-size: 24px;
+}
+#Num4{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
